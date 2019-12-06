@@ -1,2 +1,2 @@
-# pythonScript
-useful script for python
+# script script
+useful script
